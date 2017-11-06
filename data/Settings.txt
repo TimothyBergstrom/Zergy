@@ -1,0 +1,5 @@
+Auto: Force
+10
+0
+No
+No
